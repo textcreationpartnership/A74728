@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Plaine Scottish, or Newes from Scotland. Part thereof being the copy of a letter sent form Edenburgh: and the substance of the rest being by word of mouth imparted to a friend in London, by some of no small estimation in that Kingdome.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74728</idno>
+            <idno type="STC">Thomason E247_5</idno>
+            <idno type="STC">ESTC R206807</idno>
+            <idno type="EEBO-CITATION">99865913</idno>
+            <idno type="PROQUEST">99865913</idno>
+            <idno type="VID">118168</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74728)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118168)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E247[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Plaine Scottish, or Newes from Scotland. Part thereof being the copy of a letter sent form Edenburgh: and the substance of the rest being by word of mouth imparted to a friend in London, by some of no small estimation in that Kingdome.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Signatures: 3*⁴.</note>
+                  <note>Annotation on Thomason copy: "1642 March. 21.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterianism --  Early works to 1800.</term>
+               <term>Scotland --  Church history --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:118168:1"/>
+            <p>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+               <hi>Chriſts moſt faithfull Servants, who doe onely ayme at the glory of Chriſt, and Hi<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Majeſties happineſſe.</hi> He alſo prayed, <hi>That God would give Him moſt reall, ſollid, and ſound Humiliation for His own, and His Peoples moſt fearefull, raging, and Cry<g ref="char:EOLhyphen"/>ing ſinnes, their idolatry, Superſtition, Profaneſſe, and Blaſphemies: That the Lord would humble Him for His over-long favouring and honouring of the Enemies of Jeſus Chriſt, that he would let him ſee and know what manner of perſons are about him and to diſcerne his Friends from his Foes, all true hearted</hi> Nehemiahs, <hi>from al<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> treacherous</hi> Tobiaths <hi>and</hi> Sanballats; <hi>all well affected</hi> Mordecaies, <hi>from all thoſe proud inſulting.</hi> Hamans, <hi>who onely ſeek the utter extirpation, and rooting out of al<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the people of God, and of his precious Truth out of all his Kingdomes. That he would remove farre from him all</hi> Ahabs, <hi>falſe Prophets, and overpowerfull and malicious</hi> Doegs, <hi>with all ambitious and prating</hi> Diotrepheſſes,<hi>againſt the Lords moſt bleſſed People and Truth: together with all time ſerving Sycophants, all wicked, curſed, pro<g ref="char:EOLhyphen"/>fane Atheiſticall and Popiſh affected perſons; and worldly wiſe</hi> Achitophels, <hi>with all Apoſtaticall</hi> Demaſſes, <hi>that for the love of this preſent world forſake the Truth, and the Cauſe of the deare Saints of God, which is Gods own cauſe; that hereby his Throne may be eſtabliſhed in righteonſneſſe: and in the utter confuſion of the curſed and per<g ref="char:EOLhyphen"/>nitious Councels of theſe Enemies, his Crowne might flouriſh upon his own, and the heads of his poſterity.</hi>
+            </p>
+            <p>Alſo for the Queene he prayed, <hi>That God would bring her to the knowledge of Chriſt, and give her a ſincere love and affection unto the Truth, with all his holy Or<g ref="char:EOLhyphen"/>dinances; to grant her an underſtanding and a tractable heart to all the wayes of God, and to let her know that all the wayes of Antichriſt are wayes of death; that ſhee being throughly acquainted with all the helliſh, and abhorred practiſes of Popery, may utterly deteſt and forſake the ſame.</hi>
+            </p>
+            <p>He prayed alſo, <hi>for the Religious, holy heavenly and happy education of their Roy<g ref="char:EOLhyphen"/>all Iſſue, and eſpecially of the Prince his Highneſſe.</hi> And becauſe whom the Lord bleſſeth ſhould be bleſſed, and whom he curſeth ſhould be curſed, he deſired <hi>The God of all bleſsing, with all the bleſsings both of heaven and earth, to bleſſe that moſt learned, wiſe, and Religious Aſſembly, the high Court of Parliament, his Maje<g ref="char:EOLhyphen"/>ſties great, brave, and worthieſt Councel in that moſt renowned Kingdom of</hi> England, <hi>in which Kingdome the Lord had bin, and it was his prayer and his hope that he ſtill might be worſhipped in great power, and purity, even in the beauties of holyneſſe, not<g ref="char:EOLhyphen"/>withſtanding all the curſed conſpiracies and practiſes of all the enemies of Reforma<g ref="char:EOLhyphen"/>tion there.</hi> He alſo earneſtly prayed, <hi>That the Lord ſhould bleſſe all thoſe that bleſſed them and that he would curſe thoſe that curſe them; to be a friend to thoſe that are friends to them, and an enemy to thoſe that are their enemies; and that he would ſmite through the loynes of all them that riſe up againſt them, and of thoſe that hate them that they ariſe not againe.</hi>
+            </p>
+            <p>He alſo prayed very affectionately and zealouſly, <hi>that the Lord would bleſſe all
+<pb facs="tcp:118168:1"/>their Armies, both by Sea and Land; all their Officers and Commanders in Chiefe, eſpecially the Right Honourable, Gods faithfull Servant,</hi> Robert <hi>Earle of</hi> Eſſex, <hi>Lord Generall of their Forces, with all ſubordinate Officers imployed in that ſervice, for the glory of God, the felicity of his Majeſty and tranquility of the Kingdome.</hi> He prayed, <hi>That God would fight his own Battle and maintaine his cauſe againſt that curſed, deceitfull, and Trayterous profeſsion and practiſe of bloody and hypocriticall Roman Catholiks, riſen up in Armes in deare</hi> England, <hi>and diſtreſſed</hi> Ireland, <hi>to ex<g ref="char:EOLhyphen"/>terminate the truth, and ſincere profeſſors of the glorious Goſpel of the Lord Jeſus Chriſt. Oh that God would divide theſe curſed enemies in</hi> Jacob, <hi>and ſcatter them in</hi> Iſrael, <hi>and give glorious victory to his Servants, in either Kingdome, and render to all their implacable enemies a recompence anſwerable to the worke of their hands, and give them ſorrow of heart. The curſe of the Lord be upon them, even to the utter de<g ref="char:EOLhyphen"/>ſtruction of all ſuch who do not belong to the Lords election of grace: and if ſtill the Sword of the Lord would not be quiet,</hi> he deſired <hi>that God would give it a charge to de<g ref="char:EOLhyphen"/>ſtroy his enemies the adverſe party, thoſe uncircumciſed</hi> Philiſtims, Atheiſts <hi>and</hi> Pa<g ref="char:EOLhyphen"/>piſts, <hi>that have banded together, and would not have Ieſus Chriſt to raigne over them, who refuſe to bee guided by the Statutes of his Kingdome, and deſire not the knowledge of his holy wayes.</hi>
+            </p>
+            <p>This was the ſumme of that part of his prayer which occaſioned exception: beſides divers exceptions which were taken at his Sermon, which I forbeare to mention.</p>
+            <p>We are wayting for the Kings anſwer unto our Commiſſioners, and accor<g ref="char:EOLhyphen"/>dingly you ſhall ſee the reſolutions of this <hi>Kingdome</hi> raiſed, for moſt of our Gentry &amp; Comminalty, are firm unto the <hi>Parliament</hi> of <hi>England,</hi> but amonſt our <hi>Court</hi> Paraſites, both Nobles &amp; Gentry, there is nothing but unſoundnes in them, and treacherie to be expected from them: your Court Malignants there have ſuch influence into ours here, that had not the divine providence prevented it, wee had ere now beene imbroyled in the ſame ſufferings: but I hope God will breake their bands, and burſt their cords aſunder; not our bands (whom you call Malignants) can affect, although it tends unto the ru<g ref="char:EOLhyphen"/>ine of their owne, as well as of your <hi>Kingdom;</hi> they will attempt it, at what price ſoever: upon <hi>Thurſday</hi> laſt, being 16. <hi>February</hi> The Earle <hi>Mon Roſe</hi> and Lord <hi>Oglſeby,</hi> were proclaimed Traytors to God, their King, and Coun<g ref="char:EOLhyphen"/>trey, with the beat of a Drumme, and the ſound of a Trumpet here in our Ci<g ref="char:EOLhyphen"/>tie of <hi>Edenburgh,</hi> Becauſe that contrary to there Covenant (to the breach of the peace of both Kingdomes they) ſtole out of <hi>Scotland</hi> to <hi>Newcaſtle</hi> an hundred and twenty horſe &amp; men, to aſſiſt the King againſt the Parliament. There be two bookes in Print, the one is called <hi>Plaine Engliſh,</hi> the other a <hi>New Plea for the Parliament,</hi> which have done much good in this Kingdome: But we heare that you are about a Treaty, which is much wondred at, that
+<pb facs="tcp:118168:2"/>contrary to former expreſſes it ſhould now be concluded, and upon ſuch diſ<g ref="char:EOLhyphen"/>advantages as we heare of, and as you wil find the pardoning of Delinquents to be unto you: ſuch a peace wil lay a foundation of future miſery unto your Kingdome, and end in a more bloody war: ſo their treaties intend onely their owne ends. The Spaniard ever gained more by their Treaties, than by their Swords; &amp; by their Counſels King <hi>Charles</hi> is too much acted, as all the <hi>World</hi> can witneſſe, and his Popiſh Army make no little boaſt thereof. And if both Armies were disbanded (which we believe the Catholiques wil never yeild unto, although the King ſhould grant unto adisbanding, (this cauſe concer<g ref="char:EOLhyphen"/>ning them ſo much) are you not in <hi>ſtatu quo prius?</hi> nay worſe? can that be cor<g ref="char:EOLhyphen"/>dially forgiven, which will never be forgotten? Is it not a Court principle to wait a fit oportunity of revenge? <hi>ſed Manum de tabula,</hi> your body is more corrupt and diſeaſed than ours: and if thoſe Reliques left in our Stare, are ſo active now in wickedneſſe, how much more operative and ſtirring wil the humors be in yours, when all power in their hands? Wee had thought our Lenity unto Delinquents here, would have beene monitory unto you there, who have beene eye witneſſes of our diſtractions and diviſions, the ef<g ref="char:EOLhyphen"/>fects whereof are now ſeene in <hi>Englands</hi> and <hi>Irelands</hi> extremities. But <hi>Oh po<g ref="char:EOLhyphen"/>populi ad ſervitudinem praeparati!</hi> as ſaid <hi>Tyberius.</hi> This we ſay, for we pray for your <hi>Parliament,</hi> that if <hi>Moabs</hi> wiles doe not deſtroy them, <hi>Balaams</hi> curſe ſhall never hurt him: If they keepe cloſe to God, he wil preſerve them from both, but if they diſert him, and <hi>forſake their firſt love,</hi> love to his truth, and love to Juſtice, he wil forſake them: And then vvoe unto them, the Lord grant that you never taſt the bitter fruits of a back-ſliding Parliament, and of the Trea<g ref="char:EOLhyphen"/>ſons and Treacheries of any of the members thereof, who for their own ends care not to betray God, his truth and people, to make a ſale of their deare Country, friends and whatſoever is precious, with which onely they are made Feoffes in truſt: Oh that your eyes may never ſee it, nor my eares may never heare it.</p>
+            <p>We heare it for a ſecret, yet as certain News, and it came from ſome per<g ref="char:EOLhyphen"/>ſons about the King, that His Majeſty hath vow'd and ſworn to pawne His <hi>Crowne,</hi> for the Prelates <hi>Miter:</hi> that he wil beare out the Catholicks in this their unnaturall Rebellion, upon which they are ſo bold as to ſay, <hi>That if the King deſerts them, and disbands his Forces, ere he accompliſh his ends propounded to them in raiſing this Army, he is never to be truſted by God or man.</hi>
+            </p>
+            <p>We heare the Queene is landed, and hath brought over beſides great ſtore of Armes, much money, the benevolence of the Catholickes beyond Sea, for the maintenance of this War, yet our ſecret intelligence is, that ſhee hath In<g ref="char:EOLhyphen"/>ſtructions (and we heare alſo from whom) to mediate for a peace (and wee know for what ends, and with what reſervations) but wee wiſh your Parlia<g ref="char:EOLhyphen"/>ment
+<pb facs="tcp:118168:2"/>the wiſdom of God, of Angels, and of men, in this houre of <hi>temptation.</hi>
+            </p>
+            <p>We heare alſo that your Lords that went to the King, and thoſe Co<g ref="char:cmbAbbrStroke">̄</g>mons has went alo<g ref="char:cmbAbbrStroke">̄</g>g with <hi>the<g ref="char:cmbAbbrStroke">̄</g>,</hi> have ſucked in much of the corruptio<g ref="char:cmbAbbrStroke">̄</g>s of the <hi>court</hi> at <hi>Oxford,</hi> which ſince hath produced bad effects in the Parl. Houſe, to the great <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſcouragme<g ref="char:cmbAbbrStroke">̄</g>t of the beſt affected Citizens of <hi>London,</hi> upon whoſe ſhoulders a great part of the burden of this war hath laid: we look upon it as a ſad <hi>o<g ref="char:EOLhyphen"/>men:</hi> &amp; fear that things have been onely carryed as politickly &amp; not ſo piouſly as was pretended hitherto: the report is, that the feare of a Reformation ſur<g ref="char:EOLhyphen"/>prizeth the ſpirits of your licentious Nobles, who had rather loſe the power <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd purity of the Goſpell, then their Court Minions, their pride their State, <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd their book of Common Prayer. Wee deſire and hope better things: but <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>here is a whiſpering as if their affection to ſome about the King, related and <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngaged to them hath made them ſo cold (not to ſpeak ſo broad as others do) in this cauſe all along, and therefore ſo little hath bin done by them; or by thoſe imployed for them, and yet much muſt not be expected from theſe Lords any longer, now they ſee the termes upon which the truth muſt bee purchaſed: but were you of their counſell, I would tell them one of <hi>Solomons</hi> Proverbs, <hi>that he that layeth up deceit with him, and covereth his hatred therewith, <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>his wickedneſſe ſhall be diſcovered to the whole World,</hi> or one of <hi>Gamaliels</hi> politicks, that if this work be of man, it ſhall come to nought, but if it be of God, they cannot overthrow it, <hi>leaſt they be found fighters againſt God, Faelix quem faciunt aliena pericula cautum.</hi> There is a Hiſtory of the <hi>Sweathens,</hi> who when their No<g ref="char:EOLhyphen"/>bles in compliance with their Soveraigne went about to betray their liber<g ref="char:EOLhyphen"/>ties, the people (whom God and nature hath inveſted with all power primi<g ref="char:EOLhyphen"/>tive, it being onely in the hands of others derivative as men intruſted there<g ref="char:EOLhyphen"/>with by them, and go accountable to them) they unwilling to be inthralled and brought into ſervitude, roſe up for the vindication of their juſt priviled<g ref="char:EOLhyphen"/>ges, and apprehended their Nobles, and put them to death as Traytors to their State, God in juſtce will ſuffer diſhonour to ſtaine the glory of ſuch who have no regard unto his honour.</p>
+            <p>We heare that you do much wonder that we in all this time have afford<g ref="char:EOLhyphen"/>ed you no aſſiſtance, both States being imbarqued in one &amp; the ſame cauſe: you ſhal ſee what we wil do ſhortly, but when you conſider what jealou<g ref="char:EOLhyphen"/>ſies there were of us in your State before, who durſt not truſt us with the ſpoil of our Enemies, the Papiſts (which was all the ſatisfaction was deſired in con<g ref="char:EOLhyphen"/>ſideration of our vaſt expences occaſioned by them, or had prevented all thoſe miſeries that have now invaded you, beſides the loſſe of much bloud which hath been ſpilt and moneyes ſpènt but <hi>ſecundae cogitationes</hi> are ever the beſt) you thought we came to inrich our ſelves, and to impoveriſh you, and had we not obtained our ends we had never departed in peace, how much more ſhal
+<pb facs="tcp:118168:3"/>we bee ſuſpected now, the ſame principles of jealouſie ſtil remaining in you<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and your meanes of reſiſtance being leſſe powerful through your own divi<g ref="char:EOLhyphen"/>ſions: if theſe ſurmiſes were removed in your parts generally, and prejudice by that meanes, were tooke off our Spirits: you ſhould ſinde us not comtem<g ref="char:EOLhyphen"/>plative but active, to afford you all Fraternall aſſiſtance; but you will ſay theſe jealouſies were never foſtered in the hearts of the beſt affected; but of the Malignants of the Kingdome. I wiſh it had been ſo: but beloved you ſhall finde this no obſtacle in your ſpirits, doe you remain fixed in your Reſoluti<g ref="char:EOLhyphen"/>ons, and you ſhall ſee a ſpeedy iſſue of our determinations upon the returne of our Commiſſioners; But judge with your ſelves if this had beene reaſona<g ref="char:EOLhyphen"/>ble, nay if it would not have beene prejudiciall to you, much more to us, that an Armie ſhould have beene raiſed by us, to be ſo ſuddenly disbanded ere the end pretended had beene effected: your inconſtancie and uncertaintie ama<g ref="char:EOLhyphen"/>zeth us, but let your premiſſes, and principles onely be eſtabliſhed, &amp; thence you ſhall ſee anſwerable concluſions deducted according, anſwerable to your expectatio<g ref="char:cmbAbbrStroke">̄</g>s, to your deſires. Today it is reſolved that you wil treat in no place but in <hi>Parliament,</hi> to morrow you wil in any place appointed: (which wee judge not onely to be diſhonourable but a breach, but a loſſe of the truſt pri<g ref="char:EOLhyphen"/>viledge of <hi>Parliament.</hi>) To day it is declared that you wil no more Petition His Majeſty, to morrow you wil: (whereas we hold Declarations to be more ſuteable to the Soveraignty of ſo ſupreme a Court, whoſe power is coordinate with Princes, then Petitions. To day it is proteſted that you take up Arms to bring Delinquents to Judiciall tryall, and to condigne pu<g ref="char:EOLhyphen"/>niſhment: to morrow it is determined otherwiſe, they ſhall be pardoned. To day it is ordered, that the ſhips be ſequeſtred for the ſervice of the King<g ref="char:EOLhyphen"/>dome, the Forts and ſtrong holds ſecured and maintained for the ſecurity of the Kingdome from evill inſurrections, and forreigne invaſions, that they be intruſted in the hands of ſuch as the Kingdom may conſide in; to morrow it is diſputeable, whether for peace ſake, and upon condition of disbanding all may not be left to the diſpoſition of the King. Theſe former Votes either were the reaſon of the Kingdome or not, if the Reaſon, then the cauſe ſtill remaining, the ebuity of the reaſon continues in force: and ſo the ſame care is yet to be had that was formerly, if not, why djd you at all take Arms? how can it be juſtified before God and man? upon whoſe heads ſhall all that innocent blood lie, that hath hitherto beene ſhed? <hi>Hinc illae Lachrymae?</hi> Wee are aſtoniſhed that ſo wiſe a Parliament ſhould be deluded by the Sophiſtry of a Jeſuited faction, about the Court and in the Kingdom, whoſe Counſels have beene deepe to contrive the ruine of <hi>Parliament</hi> and Kingdome, and hath ſwept away the honour of many of their Members who were in the head, &amp; at the firſt ſeſſion thereof Gold, but in the feete are clay: Let <hi>Englands Par<g ref="char:EOLhyphen"/>liament,</hi>
+               <pb facs="tcp:118168:3"/>beware of Neutrality, for there is no halting before God; the Land hath already ſmarted for compliance with men of Antichriſtian ſpirits, &amp; if now they heare not the rod, the next ſtroke wil reach unto the ſoule: our earneſt prayer is that they may wiſely diſtinguiſh betweene Chriſts and An<g ref="char:EOLhyphen"/>tichriſts, in this their day may underſtand the things of their peace; for the <hi>quarrel</hi> is whether Jeſus ſhal be <hi>King</hi> or no. O that <hi>England</hi> may never ſeek the death of crowned King Jeſus! may never co<g ref="char:cmbAbbrStroke">̄</g>ply with dying Antichriſt, againſt whom in ſpeciall is all Chriſts quarrel in this laſt age of the World. Our ſoules deſire is that your Parliament abate nothing of their profeſt zeale, and reſolved integrity, leaſt they utterly loſe the heart of God, the prayers of his people, and to procure to themſelves a curſe, a blot of ignominy through<g ref="char:EOLhyphen"/>out all Kingdomes (whoſe eyes are fixed upon them) as ſhall never be wiped out from generation to generation. Oh that the God of Wiſdome would lead you into all wiſdome, for it is not in man to direct his way! if he ratifies a peace who can procure trouble? Remove the cauſe, &amp; the effect wil ceaſe: ſupplant the root, and the fruits wil vvither and die; lop the branches onely, and your diſtractions vvil ſprout forth again with great increaſe, to the utter undoing of future Generations, if Gods mercie prevent it not by withering. Bleſſed is he that hath a ſeeing eye, a hearing eare, an underſtanding heart to attend to Counſel ere repentance comes in too late. Oh let not ſelfe ends, ſecurity, diſtruſt of divine Providence and power, prove all your hopes a<g ref="char:EOLhyphen"/>bortive, and loſe you the Crowne, the recompence of ſo many moneths and yeares travell both from God &amp; man! Oh let not feare, nor favour, ingage<g ref="char:EOLhyphen"/>ments, or prejudice foreſt all your Judgements, or divert your intentions fro<g ref="char:cmbAbbrStroke">̄</g> the rule of Gods Word, or that Proteſtation ſo ſolemnly ſworne before God, and the whole World, leaſt your iniquities purſue you, and your hypocriſie and Apoſtacie doe finde you out! You have begun well, and who doe let you that you ſhould not finiſh the work in the pureſt Reformation? he that hath an eare let him heare. Heare me in this your day that God may heare you in his Even, in the great Judgement day.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
